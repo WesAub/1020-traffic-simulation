@@ -6,6 +6,9 @@ Lab mini project
 
 from engi1020.arduino import *
 from time import sleep
+
+#must have engi1020 arduino module installed
+#See Lori Hogan CSF 2112
 #RED signal represented by RED LED pin A0
 #YELLOW signal  represened by LCD
 #GREEN signal represented by BLUE LED pin  A2
